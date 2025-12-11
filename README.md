@@ -6,7 +6,7 @@ Este repositorio contiene un análisis estadístico y visual de los delitos regi
 
 ## 📄 Documento del Proyecto
 
-- [Tarea 2 – Estadística (Tríptico)](Tarea_2_Estadistica_Triptico.pdf)
+- [Tarea 2 – Estadística (Tríptico)](Tarea_2 _Estadistica_Triptico.pdf)
 
 ---
 
