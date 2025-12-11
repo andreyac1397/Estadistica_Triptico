@@ -1,8 +1,40 @@
-Este repositorio contiene un análisis estadístico y visual de los delitos registrados en Costa Rica durante octubre del 2025.
-El proyecto utiliza Python y R para limpiar, procesar y visualizar los datos mediante una variedad de gráficos que permiten comprender patrones, tendencias y comparaciones relevantes.
+# 📊 Análisis Estadístico y Visual de Delitos en Costa Rica con Python
 
-📄 Documento del Proyecto
+Este repositorio contiene un análisis estadístico y visual de los delitos registrados en Costa Rica durante octubre del 2025. El proyecto utiliza Python y R para limpiar, procesar y visualizar los datos mediante distintos tipos de gráficos.
 
-Puedes consultar el documento completo (tríptico) en el siguiente enlace:
+---
 
-👉 Tarea_2_Estadistica_Triptico.pdf
+## 📄 Documento del Proyecto
+
+- [Tarea 2 – Estadística (Tríptico)](Tarea_2_Estadistica_Triptico.pdf)
+
+---
+
+## 📈 Visualizaciones Incluidas
+
+1. Barras horizontales  
+2. Barras verticales  
+3. Barras simples  
+4. Barras apiladas  
+5. Barras comparativas  
+6. Pirámide  
+7. Gráfico de pastel  
+8. Barras 100%  
+9. Línea  
+10. Radar
+
+---
+
+## 🛠 Tecnologías
+
+- Python: pandas, matplotlib, seaborn  
+- R: ggplot2, reshape2, fmsb  
+- CSV procesado  
+- Jupyter Notebook / RStudio
+
+---
+
+## 🎯 Conclusión
+
+Este proyecto permite visualizar patrones y distribuciones de denuncias en Costa Rica mediante análisis estadístico apoyado en visualizaciones claras y profesionales.
+
